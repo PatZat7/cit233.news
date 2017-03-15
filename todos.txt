@@ -1,0 +1,2 @@
+Incorporate rows for the articles
+add @media rules for different device widths and adjust layout.
